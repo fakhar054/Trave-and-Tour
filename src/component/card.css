@@ -1,0 +1,13 @@
+.TripCards {
+  text-align: center;
+}
+.card {
+  text-align: center;
+}
+.card img {
+  transition: 0.3s ease-in-out;
+}
+.card:hover img {
+  transform: scaleX(1.1);
+  transform: scaleY(1.1);
+}
